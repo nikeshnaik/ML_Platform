@@ -18,6 +18,9 @@
 
 6. Since output of ML Model can be directly ingested by Enterprise Application through API Layer or Batch Processing with Spark can be used.
 
+### Final Goal:
+
+Abstract away Machine Learning Engineering steps from DS work for faster iteration of ML Experiments.
 
 ## Preffered Tech Stack for V1:
 
